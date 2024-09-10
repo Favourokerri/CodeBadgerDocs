@@ -1,7 +1,7 @@
 # User Profile
 
 ### Model
-    the user profile inherits from the defualt user model provided by django
+the user profile inherits from the defualt user model provided by django
 
 ```
 class Profile(models.Model):
